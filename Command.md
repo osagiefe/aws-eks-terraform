@@ -44,7 +44,7 @@ Skip on create tag.
 Now give a role name and create it.
 
 
-Assign the role to EC2 instance
+# Assign the role to EC2 instance
 Go to AWS console, click on EC2, select EC2 instance, Choose Security.
 Click on Modify IAM Role
 

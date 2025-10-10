@@ -12,6 +12,6 @@ variable "public_subnet2" {
 }
 
 variable "cluster_name" {
-  type = string
+  type    = string
   default = "my-eks-cluster"
- }
+}
